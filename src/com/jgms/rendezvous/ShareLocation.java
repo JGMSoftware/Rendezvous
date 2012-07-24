@@ -69,8 +69,8 @@ public class ShareLocation extends Activity {
 		}
 
 		// Initialize Parse
-		Parse.initialize(this, "mVi4YTWyPwowDMi65MNilKy6YWJoYrHF5th2CsIY",
-				"sH9EaQuylyjOpMbp20WHkGUImkwXef8nX75Cf9ZW");
+		Parse.initialize(this, "PARSE_APPLICATION_ID",
+				"PARSE_CLIENT_KEY");
 		// Get the current location
 		Log.d(TAG, "Getting location");
 		getLocation();

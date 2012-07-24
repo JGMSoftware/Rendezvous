@@ -26,8 +26,8 @@ public class FindExisting extends Activity {
 		setContentView(R.layout.find_waypoint);
 
 		// Initialize Parse
-		Parse.initialize(this, "mVi4YTWyPwowDMi65MNilKy6YWJoYrHF5th2CsIY",
-				"sH9EaQuylyjOpMbp20WHkGUImkwXef8nX75Cf9ZW");
+		Parse.initialize(this, "PARSE_APPLICATION_ID",
+				"PARSE_CLIENT_KEY");
 	}
 
 	public void findWaypointBtnClicked(View view) {
