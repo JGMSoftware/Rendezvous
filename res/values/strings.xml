@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Welcome to Rendezvous</string>
+    <string name="app_name">Rendezvous</string>
+    <string name="create_new">Make a Waypoint</string>
+    <string name="findExisting">Find a Waypoint</string>
+    <string name="preferences">Preferences</string>
+    <string name="mapView">Share My Location</string>
+    <string name="waypoint_name">Name your Waypoint:</string>
+    <string name="enable_location_sharing">Automatically Share My Location</string>
+    <string name="share_now">Share Now</string>
+    <string name="waypoint_description">Describe your Waypoint:</string>
+    <string name="current_location_label">Current Location</string>
+    <string name="custom_location_label">Another Location</string>
+    <string name="publish_to_fb">Share location on Facebook?</string>
+    <string name="status_facebook">Post a message to Facebook:</string>
+    <string name="find_friend">Find a Friend</string>
+    <string name="aboutHeading">About Rendezvous</string>
+    <string name="concept">Concept by Charlotte Simpson</string>
+    <string name="androidDev">Android Development by JGM Software</string>
+    <string name="iosDev">iOS Development by Bruce Collie</string>
+    <string name="serverBy">Servers provided by Parse in San Francisco</string>
+    <string name="enter_address">Enter the address:</string>
+    <string name="enter_latitude">Enter the latitude:</string>
+    <string name="enter_longditude">Enter the longitude:</string>
+    <string name="fill_fields">Please fill all fields</string>
+    <string name="lat_error">Latitude must be between -90 and +90</string>
+    <string name="lon_error">Longditude must be between -180 and +180</string>
+    <string name="map_view">Map View</string>
+    <string name="enter_pin">Enter the Rendezvous Pin:</string>
+    <string name="find">Find</string>
+    <string name="forename">Enter your first name:</string>
+    <string name="surname">Enter your last name:</string>
+    <string name="retrieval_fail">Could not find that pin.</string>
+    <string name="show_on_map">Show on Map</string>
+    <string name="save_confirm">Waypoint created. Keep a note of your PIN.</string>
+    <string name="enter_friend_pin">Enter your friend\'s PIN:</string>
+    <string name="about">About Rendezvous</string>
+
+</resources>
