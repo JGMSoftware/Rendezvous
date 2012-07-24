@@ -1,0 +1,17 @@
+RENDEZVOUS PROJECT
+------------------------------
+Welcome to the GitHub Repo for the Android version of the Rendezvous app.
+
+DEVELOPER USE ONLY
+------------------------------
+If you are looking to purchase Rendezvous, you can buy it from the Play Store here: https://play.google.com/store/apps/details?id=com.jgms.rendezvous
+Whilst we welcome suggestions regarding our code, this repo is primarily for the use of JGM Software developers.
+
+You will not be able to compile a fully functional version of Rendezvous from this repo. Rendezvous is required to be signed by code signing keys from JGM Software.
+
+DEVELOPER CHANGELOG:
+------------------------------
+Version 1.0.0: Initial Release
+Version 1.0.1: Fixed bug causing the app to crash when the Menu button was pressed on pre-ICS devices.
+Version 1.0.2: Added new resource for Find a Friend screen on pre-ICS devices.
+Version 1.0.3: Fixed bug causing the user's PIN to be displayed in the wrong place during initial set up.
